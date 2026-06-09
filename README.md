@@ -1,6 +1,6 @@
 <div align="center">
 
-# I’m moalimirinfinity
+# I’m moalimir
 
 ### Philosopher-Developer | AI & ML Enthusiast
 
