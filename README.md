@@ -13,11 +13,11 @@
 ![Web Development](https://img.shields.io/badge/Web%20Development-2E8B57?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-
 ---
 
-###  Get in touch
+### Get in touch
 
+[![Website](https://img.shields.io/badge/Website-moalimir.com-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moalimir.com)
 [![Telegram Connect](https://img.shields.io/badge/Connect_on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/moalimir)
 
 </div>
