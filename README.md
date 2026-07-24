@@ -17,7 +17,8 @@
 
 ### Get in touch
 
-[![Website](https://img.shields.io/badge/Website-moalimir.com-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moalimir.com)
+[![Website](https://img.shields.io/badge/Visit-moalimir.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moalimir.com)
+
 [![Telegram Connect](https://img.shields.io/badge/Connect_on-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/moalimir)
 
 </div>
